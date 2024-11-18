@@ -15,7 +15,7 @@
 
 ## 📊 Linguagens mais usadas no GitHub
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagojesus-dev&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagojesus-dev&layout=compact&theme=radical&count-private=true)
 
 ---
 
